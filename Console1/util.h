@@ -12,7 +12,7 @@ enum
 	cyan, //3
 	red, //4
 	purple, //5
-	brow, //6
+	brown, //6
 	lightgray, //7
 	darkgray, //8
  	lightblue, //9
@@ -29,5 +29,3 @@ enum
 void init();
 void gotoxy(int, int);
 void setColor(int, int);
-
-//void gotoxy();

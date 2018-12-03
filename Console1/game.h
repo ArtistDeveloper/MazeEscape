@@ -26,6 +26,9 @@ int Menu();
 int KeyControl();
 void infoDraw();
 int mapList();
-void drawmap();
+void drawMap(int*, int*);
 void gLoop(int);
-
+void move(int*, int*, int, int, int*, int*);
+void drawUI(int*, int*, int*);
+//void clear()
+int kbhit();

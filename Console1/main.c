@@ -15,13 +15,14 @@ int main()
 			system("cls");	
 			int n = mapList();
 
-			if (n == 0)
-			{
-				drawmap();
+			if (n == 0){
+				gLoop(0);
+			
 			}
 
-			else if (n == 1)
+			else if (n == 2)
 			{
+				gLoop(2);
 				// ¾î·Á¿ò
 			}
 		}

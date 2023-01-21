@@ -296,7 +296,7 @@ void infoDraw()
 	printf("				     [ 조 작 법 ]\n\n");
 	printf("				이 동 : W, A, S D\n");
 	printf("				선 택 : 스 페 이 스 바 \n\n\n\n\n\n\n");
-	printf("			           개 발 자 : Pang\n\n");
+	printf("			           개 발 자 : Artiper\n\n");
 	printf("			스 페 이 스 바 를  누 르 면  메 인 화 면 으 로	\n				    이 동 합 니 다 .");
 
 	while (1)
